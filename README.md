@@ -1,3 +1,3 @@
 # superHero.github.io
-unzip this file
-and run index file from internal file
+# unzip this file
+# run index file from internal file
